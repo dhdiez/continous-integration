@@ -9,6 +9,8 @@
 
 _Create workflows that enable you to use Continuous Integration (CI) for your projects._
 
+[![CI](https://github.com/dhdiez/continous-integration/actions/workflows/ci.yml/badge.svg)](https://github.com/dhdiez/continous-integration/actions/workflows/ci.yml)
+
 <!--
   <<< Author notes: Start of the course >>>
   Include start button, a note about Actions minutes,
